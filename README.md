@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahmut</h1>
-<h3 align="center">I'm a full stack developer. You can visit my website https://hmahmutbayramoglu.com in touch.=></h3>
+<h3 align="center">You can visit my website for detailed information about me. https://hmahmutbayramoglu.com </h3>
 
 
  
