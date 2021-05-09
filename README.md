@@ -12,7 +12,7 @@
       >
         <style>
           .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+           
             fill: #ffffff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
