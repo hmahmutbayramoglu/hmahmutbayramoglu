@@ -17,7 +17,7 @@
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           
-    .stat {
+      .stat {
       font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #daf7dc;
     }
     .stagger {
